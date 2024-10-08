@@ -1,0 +1,641 @@
+OralAntidiabeticDrugs
+Radiotherapy
+Chemotherapy
+Psychotherapy
+HIV
+ddI
+Placebo
+FP
+Lymphoma
+lopinavir/ritonavir
+Immunotherapy
+Vobramitamab duocarmazine
+TB
+Antiretroviral
+⁸⁹Zr-Df-IAB22M2C
+immunotherapy
+Amoxicillin/clavulanate
+chemotherapy
+Monotherapy
+psychotherapy
+therapies
+Drugs
+Chemotherapeutic
+Cardiotoxicity
+Immunosuppression
+Chemoradiotherapy
+Depression
+Cortical Plasticity
+null
+Henoch-Schönlein Purpura Nephritis
+Drug1
+Drug2
+Drug3
+risks
+fibers
+prescriptions
+Region Skåne
+EqualSpheres
+Empathy
+Immunotherapies
+Lopinavir/ritonavir
+phacoemulsification
+FLUTICASONE PROPIONATE/SALMETEROL COMBINATION PRODUCT
+Recombinant interleukin-2 (Aldesleukin; IL-2)
+MN rsgp120/HIV-1
+Pharmacotherapy
+immunogenicity
+Myelosuppression
+Transmission
+Contamination
+Patients
+Studies
+Population
+Rhône-Alpes region
+Switzerland
+Investigators
+Province
+Risk
+BRCA1
+BRCA2
+Hyperlactatemia
+Nucleoside/tide Reverse Transcriptase Inhibitors
+Wellferon
+Hypogonadism
+SANZ®KINGWILL
+Anti TNF-α
+hospitalization
+Seizures
+Language lateralization
+Nurses
+Pharmacists
+Nutritionist
+autogene cevumeran
+gender
+race/ethnicity
+Epilepsy
+Apoptosis
+Biphasic insulin aspart 70/30
+Hypercholesterolaemia
+Medicines
+Exercise
+Fangji
+--- # recognized noise 
+CMV retinitis
+HIV infection
+Combination product
+Type 1 Diabetes
+EE
+LNG
+Optimized background therapy (OBT)
+Combination therapy
+acupoint application
+ear acupoint seeding
+nasal catheter
+esophageal cancer surgery
+Electro-acupunctur
+Auricular acupuncture
+Low molecular weight heparin
+protease inhibitors
+Cholesterol
+Blood pressure
+Platelet function
+Platinum
+Antiretroviral Therapy
+Hepatitis
+HIV medications
+PEG interferon
+Soy Protein
+Prostate Cancer
+High-grade Prostate Neoplasia
+Anti-HIV drug combinations
+Body fat changes
+Combination Therapy
+anti-PD-1 antibody
+Protease Inhibitors
+Mood Stabilizing Medication
+Antidepressant Medication
+Radiation
+Interferon gamma
+Ascorbic acid
+Combination chemotherapy
+Antifungal therapy
+Investigational drug
+non-surgical procedure
+surgical procedure
+systemic inflammation
+glycemic control
+HIV-1
+Plasma Viral Loads
+Acetylsalicylic Acid
+Anti-HIV drugs
+Anti-diabetic drug
+Radiation therapy
+Repurposed Drugs
+Turbo Power laser atherectomy
+drug coated balloon (DCB) angioplasty
+Syngeneic lymphocyte transfer
+LA identical allogeneic lymphocyte transfer
+Type 2 diabetes
+Oral antidiabetic drug (OAD) therapy
+Non-steroidal Anti-inflammatory Drug (NSAID)
+DA
+Drug
+Diet
+PD-1 inhibitor
+Reverse Transcriptase Inhibitors
+Nonnucleoside Reverse Transcriptase Inhibitors
+Oral Contraceptive
+Hormonal Therapies
+PAH drugs
+surgery
+Thymosin alpha 1
+Progesterone antagonist
+Hypo-fractionated stereotactic radiation
+Oral hypoglycaemic agent (OHA)
+anti-tumor agents
+Probiotics
+Pharmacological reference controls
+insulin secretagogues
+Therapeutic physical exercise
+Monopolar capacitive diathermy
+local radiotherapy (RT)
+AIDS dementia complex (ADC)
+Co-administration
+Protease Inhibitor
+double-pill combination therapy
+T cells
+Cancerous B cells
+Mass Drug Administrations
+Mass Vaccinations
+Combined Mass Vaccinations and Drug Administrations
+Current Standard of Care
+CMV-specific adoptive cellular therapy
+T cell depleted allogeneic hematopoietic stem cell transplantation
+CMV reactivation
+HIV-infected patients
+antiretroviral therapies
+Standard heart
+Clinical Immunology
+Virus Burden
+FDA-approved drugs
+tablet formulation
+therapy
+medical conditions
+laboratory test values
+medication use
+drug allergies
+MVA-vectored vaccine
+personalized RNA vaccine (HIVACAR01)
+non-compliant balloon
+Chinese medicine
+COVID-19
+Renal cell carcinoma
+non-steroidal anti-inflammatory drug
+laser acupuncture
+Anti-cancer agents
+HIV pre-exposure prophylaxis (PrEP)
+Medications for opioid use disorder (MOUD)
+Point of care (POC) sexually transmitted infection (STI) testing'
+SARS-COV-2
+respiratory distress
+intensive care unit
+Anti-cancer drug
+Periarticular Multimodal Drug Injection
+PENG Block
+Radiation Therapy
+Highly active antiretroviral therapy (HAART)
+CD4 cells
+High blood pressure
+genetic analysis
+cardiovascular diseases
+Antidepressant medication
+Mindfulness based cognitive therapy
+PD-1 Inhibitor
+Investigational Drug 1
+Investigational Drug 2
+Metastatic castrate-resistant prostate cancer
+Leukocyte reduced cold-stored platelet transfusions
+Non-small cell lung cancer
+Triple-negative breast cancer
+Squamous cell carcinoma of the head and neck
+Cellular therapy
+Dendritic cells
+Fixed Dose Combination
+Cardiovascular Prevention
+Ischemic Heart Disease
+Secondary Prevention Medication
+combination oral contraceptives
+Drug-coated baloons
+Nucleoside antiretroviral drugs
+stereotactic body radiation
+Alpha-blockers
+Open-label placebos
+Cutting balloon angioplasty
+DEB angioplasty
+Combination therapies
+Antimalarial drugs
+Bioequivalence Study
+Adoptive Cellular Therapy
+Dendritic Cells
+Cytokine-induced Killer Cells
+lyophilized intestinal bacteria
+FMT treatment
+Cell Replacement Therapy
+Body build changes
+Body image concerns
+immunohistochemical biomarkers
+deep-learning based models
+Investigational Drug
+Approved Drug
+AT1 subtype angiotensin II receptor antagonist
+CD8+ cells
+General anaesthesia
+Lumbar spine surgery
+Regional anaesthesia
+Controlled hypotension
+Perioperative pain management
+NBUVB phototherapy
+anti-inflammatory agents
+investigational device
+Combined Device
+Solid Tumors
+Bone marrow transplantation
+Peripheral lymphocyte transfers
+Renal impairment
+HIV treatment
+factor VIII
+Selective serotonin reuptake inhibitors
+Ablation procedure
+Paroxysmal atrial fibrillation
+non-biologic disease modifying antirheumatic drugs
+non-biologic disease modifying antirheumatic drugs
+Drug eluting balloon
+PD-1 inhibitors
+Pharmacogenetic testing
+Medication Therapy Management
+Cytochrome DNA testing
+Genetic CYP testing
+Oral antidiabetic drug
+Type 2 Diabetes Medication
+3-class antiviral resistance
+Antiretroviral therapy
+JAK2 inhibitor
+Nucleoside reverse transcriptase inhibitors
+chemoprotective therapy
+anti-HIV medication
+HIV virus
+Psoriasis Medications
+Anti-HIV Therapy
+Laparoscopic surgeries
+Open procedures
+Nucleoside reverse transcriptase inhibitors (NRTIs)
+Nonnucleoside reverse transcriptase inhibitors (NNRTI)
+Combination with Anticancer Agents
+medication
+Antihypertensive drugs
+Pharmacokinetic characteristics
+Safety
+Fasting condition
+Healthy male volunteers
+Stimulant Abuser Groups to Engage in 12 -Step (STAGE-12)
+Antibody-drug conjugate
+Hypofractionated radiotherapy
+Tumor Control
+Psychiatric co-morbidities
+Medical co-morbidities
+Anti-allergic medication
+Allergic rhinitis
+Antihypertensive Drug 1
+Antihypertensive Drug 2
+Antihypertensive Drug 3
+Cognitive Behavioral Therapy for Insomnia
+targeted drug therapy
+Cognitive Behavioral Therapy (CBT)
+HIV disease
+hepatitis B
+co-infected patients
+dose levels
+Nonnucleoside reverse transcriptase inhibitors
+HIV drugs
+sodium and calcium channel blocking agents
+local anesthetics
+Protease Inhibitors (PIs)
+Non-Nucleoside Reverse Transcriptase Inhibitors (NNRTIs)
+Type 2 Diabetes Mellitus
+Exercise Therapy
+Anti-HIV treatment
+HIV-related illnesses
+Gastric Lavage Therapy
+Acupoint Sticking
+Acupuncture Point Massage
+Disease-Modifying Antirheumatic Drugs
+HIV replication
+Immunologic function
+HIV-related complications
+Antiretroviral regimens
+Viral suppression
+Triple-drug regimen
+Induction regimen
+Maintenance regimen
+T2 mapping on MRI
+Breast cancer treatment
+Myocardial damage
+Diastolic function
+Oral contraceptives
+Neoantigen vaccine
+Lung cancer
+EGFR mutant non-small cell lung cancer
+lipid-lowering drugs
+anti-psychotic medications
+Prostate cancer
+High grade prostate cancer
+Lower urinary tract symptoms
+Psychotropic medications
+Bipolar I disorder
+Biologic drug
+Chemotherapeutic agents
+Nucleoside therapy
+Standard of Care
+Metastatic Breast Cancer
+Metastatic Prostate Cancer
+Pancreatic Cancer
+Ovarian Cancer
+Non-Small Cell Lung Cancer'
+Advanced Solid Tumors
+Checkpoint Inhibitors
+Immune checkpoint inhibitors
+Molecular targeted drugs
+Local interventional therapy
+Liver cancer
+Anti-HIV medication
+CYP1A2 inhibitor
+Tumor cells
+Virtual Reality
+Anti-PD-1 Antibody
+Triple-drug combinations
+nucleoside drugs
+Exposure and Response Prevention
+Local Anesthetic
+combined treatment
+Drug A
+Drug B
+HIV-positive patients
+Thermal ablation
+Cold ablation
+Acute lymphoblastic leukemia
+Non-Hodgkin's lymphoma
+Combination Product
+Anti-hypertensive drugs
+CURATE.AI platform
+Vasoactive Agents
+Cirrhotic Patients
+Nucleoside analogue reverse transcriptase inhibitors (NRTIs)
+Endothelin receptor antagonist
+Blood clotting
+Diabetes drug
+HIV drug
+combination therapy
+Tumor necrosis factor inhibitor
+Ebola Virus Disease
+Artemisinin-based combination chemotherapies
+Plasmodium falciparum malaria
+Antihypertensive medications
+Infant Health
+hepatitis B immunoglobulin
+demethylation drugs
+acute myeloid leukemia
+myelodysplastic syndromes
+Seeking Safety
+Acute Myeloid Leukemia
+Combination Chemotherapy
+Chronic Myelogenous Leukemia
+Bitter melon extract
+CFTR protein modulator drugs
+Immune system
+White blood cell
+Combo
+Laser acupuncture
+Standard medication
+ham laser acupuncture
+Conventional Medicine
+Experimental Cell Therapy
+Antiretroviral drugs
+Chinese Herbal Medicin
+Bone Marrow Transplant
+Acute Myelogenous Leukemia
+Myelodysplastic Syndrome
+Biological agents
+Antimicrobial treatment
+Investigational product
+selected anti-HIV drugs
+Hypofractionated radiation therapy
+pancreatic cancer
+biliary tract cancer
+mucinous ovarian cancer
+colorectal cancer
+non-small-cell lung cancer
+Study Drugs
+Health Care Workers
+Personal Protective Equipment
+Anti-HIV therapy
+Immune therapeutic agents
+Host immune control
+Viral mutation
+Drug resistance
+Immune-based therapy
+Alcohol inhalation
+HIV-education course
+drug regimen
+Standard treatment
+Chronic Obstructive Pulmonary Disease (COPD)
+Neuroprotective Drug
+Antiviral Resistance
+Standard Chemotherapies
+anti-HIV drug combination 1
+anti-HIV drug combination 2
+immune system
+Targeted Agents
+Triple Combinations
+Head and Neck Cancer
+Cognitive Behavioral Therapy
+Medication Management
+Drug-coated balloon
+Balloon dilatation
+ADHD drugs
+child and adolescent psychiatrists
+university of Lund
+Adoptive T cell therapy
+local drug delivery
+balloon catheter system
+femoropopliteal occlusive disease
+drug-coated balloon
+Emotional intelligence
+Therapeutic drug monitoring
+Protease inhibitor
+Combined drugs
+FDA-approved cancer treatment drugs
+Dietary Supplement
+Exablate Type 2.0
+MR-Guided Focused Ultrasound
+Antiretroviral Drugs
+Healthy volunteers
+drug-coated balloons
+Grade II
+Grade III
+Grade IV
+Nucleoside Reverse Transcriptase Inhibitors
+anti-VEGF drugs
+subthreshold micropulse laser (SML) therapy
+Antipsychotic medications
+Blood vessel function
+Measles vaccine
+Rubella vaccin
+Short messaging service (SMS) messaging
+triple-therapy
+transgender women
+Men who Have Sex with Men
+drug concentrations
+iPrEx study
+feminizing hormones
+oral contraception
+drug transporters
+target tissues
+transgender men
+gender affirming hormone therapy
+anti-androgenic agents
+testosterone hormonal therapy
+Triumph study
+drug-drug interactions
+Detrusor Overactivity
+Stem cells
+Intracytoplasmic sperm injection
+dual drug therapy
+Diarrhea
+Irritable Bowel Syndrome
+PK
+PD
+Other anticancer drug(s)
+Preventive activity
+Marketing authorization
+Real life
+Care
+Sexually transmitted infections
+French regions
+Hospitals
+Profile of patients
+Alpine Arc region
+Adapt patient care
+Triumph study
+drug-drug interactions
+autologous stem cell transplantation
+Rheumatoid arthritis
+Stem cells
+Intracytoplasmic sperm injection
+Irritable Bowel Syndrome
+dual drug therapy
+Drug Eluting Balloon
+Cardiologs ECG AI Analysis
+PD1 antibody
+Checkpoint inhibition
+posterior chamber intraocular lens implantation'
+anti PD-1
+reverse transcriptase inhibitors
+nonnucleoside reverse transcriptase inhibitor
+Hypertensive patients
+Chronic kidney disease
+sc2Wear Pump
+DOT Diary
+HIV-infected children
+Stem Cell Product
+Cancer
+HCV infection
+HIV-positive mother
+Viral load
+solid tumor indications
+Combination Treatment
+Solid tumors
+Thread embedding acupuncture
+Other Medications
+Study Medication
+Breathing tests
+Breathing symptoms
+Diary cards
+diabetes
+medication adherence
+pharmacist
+Hormone Therapy
+Chemotherapy-related Vomit
+Pulse Magnetic Therapy System
+Drug Therapy
+Preventive activity
+Marketing authorization
+Real life
+Care
+Sexually transmitted infections
+French regions
+Hospitals
+Profile of patients
+Alpine Arc region
+Breast cancer
+Ovarian cancer
+Cell growth
+T-cells
+Skin cancer
+Kidney cancer
+Stomach cancer
+SNM device
+Dr. Noblett
+MRI studies
+JC virus
+Anticancer Drugs
+Anti-HIV combination
+treatment groups
+non-small cell lung cancer
+General Anesthesia
+Acne
+Intense Pulsed Ligh
+Red Bahman
+White Bahman
+Measles
+Rubella
+Health Plan Members
+Enrollment Period
+Index Date
+Propensity Score
+Muscle biopsy
+Blood samples
+Triple Therapy
+combined therapy
+Medication Overuse Headache
+Injection Drug Use
+Side Effects
+Cancer Cells
+glucose tolerance
+aerobic exercise
+resistance exercise
+CF patients
+glucose tolerance
+diabetes control
+muscle endurance
+exercise tolerance
+inflammatory profile
+lung function
+muscle strength
+exercise capacity
+Conventional intravenous chemotherapy
+Acute Myelocytic Leukemia
+Diffuse Large B Cell Lymphoma
+Anticancer medicine
+Left hemisphere
+Right hemisphere
+Disease-modifying anti-rheumatic drugs
+Doctors
+Case managers
+CATO algorithm
+Dutch national (GINA derived) guidelines
+Stem cell transplant
+immunologic function
+viral suppression
+Medical examinations
+Physical Therapy
