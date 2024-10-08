@@ -1,0 +1,383 @@
+esr1
+ er
+ esr
+ esra
+ estrr
+ era
+ nr3a1
+egfr
+ erbb
+ erbb1
+ errp
+ her1
+ nisbd2
+ pig61
+ mena
+ncoa3
+ actr
+ aib-1
+ aib1
+ cagh16
+ ctg26
+ kat13b
+ rac3
+ src-3
+ src3
+ tnrc14
+ tnrc16
+ tram-1
+ bhlhe42
+ pcip
+hras
+ c-bas/has
+ c-h-ras
+ c-ha-ras1
+ ctlo
+ h-rasidx
+ hamsv
+ hras1
+ rash1
+ p21ras
+araf
+ a-raf
+ araf1
+ pks2
+ rafa1
+map2k1
+ cfc3
+ mapkk1
+ mek1
+ mel
+ mkk1
+ prkmk1
+mapk1
+ erk
+ erk-2
+ erk2
+ ert1
+ mapk2
+ ns13
+ p42mapk
+ prkm1
+ prkm2
+ p38
+ p40
+ p41
+ p41mapk
+ p42-mapk
+shc2
+ sck
+ shcb
+ sli
+grb2
+ ash
+ egfrbp-grb2
+ grb3-3
+ mst084
+ mstp084
+ nckap2
+sos1
+ gf1
+ ggf1
+ gingf
+ hgf
+ ns4
+ sos-1
+jag1
+ ags
+ ags1
+ ahd
+ aws
+ cd339
+ cmt2hh
+ dche
+ hj1
+ jagl1
+notch1
+ aos5
+ aovd1
+ tan1
+ hn1
+mtor
+ frap
+ frap1
+ frap2
+ raft1
+ rapt1
+ sks
+rps6kb1
+ ps6k
+ s6k
+ s6k-beta-1
+ s6k1
+ stk14a
+ p70_s6ka
+ p70(s6k)-alpha
+ p70-s6k
+ p70-alpha
+igf1
+ igf
+ igf-i
+ igfi
+ mgf
+igf1r
+ cd221
+ igfir
+ igfr
+ jtk13
+erbb2
+ cd340
+ her-2
+ her-2/neu
+ her2
+ mln_19
+ mln-19
+ neu
+ ngl
+ tkr1
+ vscn2
+ c-erb-2
+ c-erb2
+ p185(erbb2)
+fos
+ ap-1
+ c-fos
+ p55
+dll3
+ scdo1
+pgr
+ nr3c3
+ pr
+pik3ca
+ ccm4
+ clapo
+ clove
+ cws5
+ mcap
+ mcm
+ mcmtc
+ pi3k
+ pi3k-alpha
+ p110-alpha
+akt3
+ mpph
+ mpph2
+ pkb-gamma
+ pkbg
+ prkbg
+ rac-pk-gamma
+ rac-gamma
+ stk-2
+pten
+ 10q23del
+ bzs
+ cws1
+ dec
+ glm2
+ mham
+ mmac1
+ pten1
+ ptenbeta
+ tep1
+ccnd1
+ bcl1
+ d11s287e
+ prad1
+ u21b31
+myc
+ mrtl
+ mycc
+ bhlhe39
+ c-myc
+lef1
+ lef-1
+ tcf10
+ tcf1alpha
+ tcf7l3
+csnk1a1l
+ ck1
+axin1
+ axin
+ cmdoh
+ ppp1r49
+apc2
+ apcl
+ mrt74
+ctnnb1
+ ctnnb
+ evr7
+ mrd19
+ nedsdv
+ armadillo
+gsk3b
+frat1
+dvl1
+ drs2
+ dvl
+ dvl1l1
+ dvl1p1
+lrp6
+ adcad2
+ sthag7
+fzd10
+ cd350
+ fz-10
+ fz10
+ fze7
+ hfz10
+wnt16
+cdk4
+ cmm3
+ psk-j3
+rb1
+ osrc
+ ppp1r130
+ rb
+ p105-rb
+ p110-rb1
+ prb
+ pp110
+e2f1
+ e2f-1
+ rbap1
+ rbbp3
+ rbp3
+kit
+ c-kit
+ cd117
+ mastc
+ pbt
+ scfr
+cdkn1a
+ cap20
+ cdkn1
+ cip1
+ mda-6
+ p21
+ sdi1
+ waf1
+ p21cip1
+nfkb2
+ cvid10
+ h2tf1
+ lyt-10
+ lyt10
+ nf-kb2
+ p100
+ p49/p100
+ p52
+fgfr1
+ bfgfr
+ cd331
+ cek
+ eccl
+ fgfbr
+ fgfr-1
+ flg
+ flt-2
+ flt2
+ hbgfr
+ hh2
+ hrtfds
+ kal2
+ n-sam
+ ogd
+ bfgf-r-1
+wnt4
+ serkal
+ wnt-4
+tnfsf11
+ cd254
+ odf
+ opgl
+ optb2
+ rankl
+ tnlg6b
+ trance
+ hrankl2
+ sodf
+egf
+ homg4
+ urg
+brca1
+ brcai
+ brcc1
+ brovca1
+ fancs
+ iris
+ pnca4
+ ppp1r53
+ pscp
+ rnf53
+brca2
+ brcc2
+ brovca2
+ facd
+ fad
+ fad1
+ fancd
+ fancd1
+ glm3
+ pnca2
+ xrcc11
+fgf1
+ afgf
+ ecgf
+ ecgf-beta
+ ecgfa
+ ecgfb
+ fgf-1
+ fgf-alpha
+ fgfa
+ glio703
+ hbgf-1
+ hbgf1
+hes1
+ hes-1
+ hhl
+ hry
+ bhlhb39
+hey1
+ bhlhb31
+ chf2
+ herp2
+ hesr1
+ hrt-1
+ nerp2
+ oaf1
+ hhrt1
+flt4
+ chtd7
+ flt-4
+ flt41
+ lmph1a
+ lmphm1
+ pcl
+ vegfr-3
+ vegfr3
+tp53
+ bcc7
+ bmfs5
+ lfs1
+ p53
+ trp53
+gadd45g
+ cr6
+ ddit2
+ gadd45gamma
+ grp17
+bax
+ bcl2l4
+bak1
+ bak
+ bak-like
+ bcl2l7
+ cdn1
+ddb2
+ ddbb
+ uv-ddb2
+ xpe
+polk
+ dinb1
+ dinp
+ polq

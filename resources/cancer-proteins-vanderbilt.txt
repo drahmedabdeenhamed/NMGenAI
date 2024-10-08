@@ -1,0 +1,120 @@
+AR
+AR
+AR No
+AR
+ARID1A Deficient
+ASS1 Deficient
+ATM Deficient
+AXL
+AXL Overexpression
+B4GALNT1 Expression
+BCL2 Expression
+BCL2 Overexpression
+BCL6 Expression
+CA6 Expression
+CA9 Expression
+CCND1 Expression
+CCND1 Overexpression
+CCNE1 Overexpression
+CCR5 Expression
+CD276 Expression
+CD276 Overexpression
+CD8A Expression
+CDH3 Expression
+CDK4 Expression
+CDK6 Expression
+CDKN2A Expression
+CEACAM5 Expression
+CTAG1A Expression
+CTAG1A Overexpression
+CTAG1B Expression
+CTAG1B Overexpression
+CXCR4 Expression
+EGFR Expression
+EGFR Overexpression
+EPHA2 Expression
+ER Expression
+ER Negative
+ER No Expression
+ERBB3 Expression
+ERBB3 Overexpression
+ESR2 Expression
+EZH2 Overexpression
+FGF19 Expression
+FGF2 Overexpression
+FGFR1 Expression
+FGFR1 Overexpression
+FGFR2 Expression
+FGFR2 Overexpression
+FGFR3 Expression
+FGFR4 Expression
+FOLR1 Expression
+FOLR1 Overexpression
+GPNMB Expression
+HER2 Deficient Expression
+HER2 Expression
+HER2 Negative
+HER2 Overexpression
+HMGA2 Overexpression
+KDR Overexpression
+KIT Expression
+KLB Expression
+LY75 Expression
+MAGEA1 Expression
+MAGEA10 Expression
+MAGEA12 Expression
+MAGEA2 Expression
+MAGEA3 Expression
+MAGEA4 Expression
+MAGEA6 Expression
+MCL1 Expression
+MET Expression
+MET Overexpression
+MGMT No Expression
+MKI67 Expression
+MLH1 Deficient Expression
+MSH2 Deficient Expression
+MSH6 Deficient Expression
+MSLN Expression
+MSLN Overexpression
+MST1R Expression
+MUC1 Expression
+MUC1 Overexpression
+MYC Overexpression
+NR3C1 Expression
+NR3C1 Overexpression
+NRG1 Expression
+PD-L1 Expression
+PD-L1 Expression (CPS >= 1)
+PD-L1 Expression (CPS >= 10)
+PD-L1 Expression (Expression >= 1%)
+PD-L1 Expression (IC >= 1%)
+PD-L1 Expression (TC >= 50%)
+PD-L1 High Expression
+PD-L1 Overexpression
+PDCD1LG2 Expression
+PR Expression
+PR No Expression
+PR Positive
+PROM1 Expression
+PROM1 Overexpression
+PTEN Deficient Expression
+PTEN Expression
+PTEN No Expression
+PTGS2 Overexpression
+PTK7 Expression
+PVRL4 Expression
+RB1 Deficient Expression
+RB1 Expression
+RET Overexpression
+ROR1 Expression
+ROR1 Overexpression
+SCGB2A2 Expression
+SDC1 Expression
+SLC29A1 Overexpression
+TACSTD2 Expression
+TNFRSF10B Expression
+TREM1 Expression
+TYMP Overexpression
+VTCN1 Expression
+WNT5A Deficient Expression
